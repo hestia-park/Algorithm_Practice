@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29847fe2-048f-4d27-890c-c1bccc9ff45d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5185.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5185sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5186.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5186sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1206_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1208.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1208input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1209.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1209input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1210.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1210input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1219.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1219input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1222input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1228.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1228input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1231.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1231input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1232.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/1232_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/4322_packet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/baby_bin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/bfs_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/bfs_pateen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/bfs_patten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/calac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1211.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1211.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1225input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1226.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1226input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1227.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs/1227input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs_miro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/dfs_patten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/inorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/inorder_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/miro_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/miro_input_long.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/miro_input_short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/miro_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/miro_output_long.txt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/my_clac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/packet_ans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/pip_ans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/pipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/remove_repaet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/remove_repeat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/sample_sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/sample_sample_input_smartphone.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/samsung.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/1218.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/1218input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/1223.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/1223input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/1224.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/1224input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/clac_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/stack/stack.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/str/1217.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/str/1217input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/str/check_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/str/check_str_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/done/view_sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/1232_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/1232_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/1233_ans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/1233_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/1233_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/5174_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/5174_tree_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/5176_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/5176_tree_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/bin_search_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/bts_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/bts_insert_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/graph_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/graph_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/tree_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeat/trre.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2e4xRNIPS5zPS82MtFwzCg8NQco" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1206_view.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1208.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1209.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1210.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1211.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1217.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1218.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1219.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1222.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1223.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1224.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1225.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1226.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1227.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1228.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1231.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1232.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1233_ans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4322_packet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5174_tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5176_tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5185.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5186.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.baby_bin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bfs_pateen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bfs_patten.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bin_search_tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bts_insert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clac_stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfs_miro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfs_patten.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graph_input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inorder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_clac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.packet_ans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_repaet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.samsung.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trre.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Algorithm_Practice/pythonProject&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Algorithm_Practice\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Algorithm_Practice\pythonProject" />
+      <recent name="C:\Algorithm_Practice\pythonProject\done" />
+      <recent name="C:\Algorithm_Practice\pythonProject\done\dfs" />
+      <recent name="C:\Algorithm_Practice\pythonProject\done\stack" />
+      <recent name="C:\Algorithm_Practice\pythonProject\done\str" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29847fe2-048f-4d27-890c-c1bccc9ff45d" name="Changes" comment="" />
+      <created>1711177643504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711177643504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/packet_ans.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs_miro.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs_miro.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs_miro.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/bfs_pateen.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/repeat/trre.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/repeat/5174_tree.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/repeat/bin_search_tree.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/repeat/bts_insert.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/str/check_str.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/str/check_str.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/str/check_str.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/remove_repaet.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/remove_repaet.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1206_view.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1210.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs/1211.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs/1211.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/stack/1218.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1219.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1219.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1219.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1219.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1219.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1219.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/stack/1223.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/stack/1224.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/stack/1224.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/stack/1224.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs/1225.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs/1225.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs/1226.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs/1226.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/dfs/1227.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1228.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1228.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1231.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1231.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/done/1232.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5185.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5186.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
