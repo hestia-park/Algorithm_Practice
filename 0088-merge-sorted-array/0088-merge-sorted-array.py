@@ -4,7 +4,8 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
         # first try
-        # it have unnessiary memory space and copy, more faster and reverse compare two value, and merge list 
+        # The code I wrote first uses unnecessary memory space and copying.
+        # The last one is more efficient, merging the lists by comparing two values from the back.
         # p1=0
         # p2=0
         # p=0
