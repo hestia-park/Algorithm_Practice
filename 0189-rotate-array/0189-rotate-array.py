@@ -4,6 +4,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         #165 ms,Beats 34.86%
+        # but it use memory space o(n)
         # print(len(nums))
         # k=k%len(nums)
         # j=k-1
@@ -15,6 +16,7 @@ class Solution:
         # for i in range(k,len(nums)):
         #     # print(i,i-j,nums,output)
         #     nums[i]=output[i-j-1]
+        # it don't use additinal space
         k = k % len(nums)
         def reverse(l, r, nums):
             while l < r:
