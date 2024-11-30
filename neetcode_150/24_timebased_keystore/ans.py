@@ -1,15 +1,27 @@
-class TimeMap:
 
+class TimeMap:
     def __init__(self):
-        self.dict_list=[{"":""}]*1000
+        self.store: Dict[str, List[Tuple[int, str]]] = {}
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        self.dict_list[timestamp]={key:value}
+        if key not in self.store:
+            self.store[key] = []
+        self.store[key].append((timestamp, value))
 
     def get(self, key: str, timestamp: int) -> str:
-        while self.dict_list[timestamp] == {"":""} and timestamp > 0:
-            timestamp -=1
-        print(timestamp,self.dict_list[timestamp])
+        if key not in self.store:
+            return ""
+        
+        values = self.store[key]
+        left, right = 0, len(values) - 1
+        
+        while left <= right:
+            mid = (left + right) // 2
+            if values[mid][0] <= timestamp:
+                left = mid + 1
+            else:
+                right = mid - 1
 
-        return self.dict_list[timestamp][key]
+        return "" if right == -1 else values[right][1]
+
 
