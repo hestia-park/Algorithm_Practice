@@ -1,28 +1,25 @@
+
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
-        if len(nums)<1:
-            return nums
-        if len(nums)<2:
-            return [str(nums[0])]
-        ans=[]
-        st=0
-        for j in range(1,len(nums)):
-            if (j-st)!=abs(nums[j]-nums[st] ):
-                if abs(j-st)==1:
+        if not nums:
+            return []
 
-                    ans.append(str(nums[j-1]))
-                    st=j
+        result = []
+        start = nums[0]  # 범위 시작점 설정
+
+        for i in range(1, len(nums)):
+            if nums[i] != nums[i - 1] + 1:  # 연속되지 않는 경우
+                if start == nums[i - 1]:  
+                    result.append(str(start))  # 단일 값
                 else:
+                    result.append(f"{start}->{nums[i - 1]}")  # 범위 추가
+                
+                start = nums[i]  # 새로운 범위 시작
 
-                    ans.append(str(nums[st])+"->"+str(nums[j-1]))
-
-                    st=j
-        if st==j:
-            ans.append(str(nums[st]))
+        # 마지막 범위 처리
+        if start == nums[-1]:
+            result.append(str(start))
         else:
-            ans.append(str(nums[st])+"->"+str(nums[j]))
+            result.append(f"{start}->{nums[-1]}")
 
-        return ans
-
-            
-
+        return result
