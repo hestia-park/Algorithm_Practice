@@ -5,4 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/hestia-park/Algorithm_Practice/tree/master/0057-insert-interval) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hestia-park/Algorithm_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hestia-park/Algorithm_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hestia-park/Algorithm_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
