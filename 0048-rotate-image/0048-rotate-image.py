@@ -3,12 +3,13 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        copy_array= [row[:] for row in matrix]
-        N=len(matrix[0])
+        N = len(matrix)
+
+        # Step 1: Transpose the matrix (swap matrix[i][j] with matrix[j][i])
         for i in range(N):
-            for j in range(N):
-                idx_i=j
-                idx_j=N-1-i
-                # print(i,j,idx_i,idx_j)
-                matrix[idx_i][idx_j]=copy_array[i][j]
-        print(matrix)
+            for j in range(i + 1, N):  # Only upper triangle swap
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+
+        # Step 2: Reverse each row
+        for row in matrix:
+            row.reverse()
